@@ -1,1 +1,1 @@
-https://numeric-root-calculator.herokuapp.com/
+https://numericrootcalculator.herokuapp.com/
